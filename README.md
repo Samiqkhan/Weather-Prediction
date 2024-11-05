@@ -9,7 +9,7 @@ A responsive web-based weather application that provides real-time weather data 
 - **Clear History**: Allows users to clear search history.
 
 ## Demo
-Add a screenshot or a demo link here if you have one.
+![Screenshot 2024-11-05 093814](https://github.com/user-attachments/assets/191f0f0a-3ec6-4af7-89b2-21c1c8e7aecc)
 
 ## Technologies Used
 - **HTML, CSS, JavaScript**: For building the UI and user interactions.
