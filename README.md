@@ -21,4 +21,4 @@ A responsive web-based weather application that provides real-time weather data 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+      README.md
